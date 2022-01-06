@@ -90,7 +90,7 @@ if __name__ == '__main__':
     data_loader = torch.utils.data.DataLoader(dataset, batch_size=1, shuffle=False, num_workers=4)
 
     print("Model to generate adv examples")
-    # delete several models if OOM 
+    # delete one model if OOM (all 8 models need around 12G)
     model_name_list = ['deit_base_distilled_patch16_384', 'dm_nfnet_f1', 'tf_efficientnet_b4_ns',
                        'tf_efficientnet_b5_ns', 'ecaresnet269d', 'resnet_v2_152', 'ig_resnext101_32x16d', 'InceptionV4']
     print(model_name_list)
