@@ -130,34 +130,6 @@ dmypy.json
 
 *core
 
-# logs and checkpoints
-TRADES/logs/
-TRADES/ckpts/
-TRADES/utils/auto-attack
-
-NIPS2021/ckpts
-
-*.png
-*.jpg
-*.csv
-*.txt
-*.ipynb
-*.pdf
-
-*.pt
-*.tar
-*.zip
-*.npz
-
-*.pytorch
-*.pth
-*.checkpoint
-*.npy
-
-
-*.state
-
-
 
 # datasets
 data/images
