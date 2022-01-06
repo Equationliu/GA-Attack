@@ -12,7 +12,7 @@ In this work, we propose a **geometry-aware** framework to generate **transferab
 ### Intuition of our geometry-aware framework
 
 <p align="center">
-    <img src="assets/intuition.png" width="600"\>
+    <img src="assets/intuition.png" width="1000"\>
 </p>
 
 > The perturbation budgets required for transfer-based attack are different for distinct images.
@@ -20,7 +20,7 @@ In this work, we propose a **geometry-aware** framework to generate **transferab
 ### Fooling adversarially trained robust models by transfer-based black-box attacks
 
 <p align="center">
-    <img src="assets/GA-DMI-FSA.png" width="600"\>
+    <img src="assets/GA-DMI-FSA.png" width="1000"\>
 </p>
 
 > GA-DMI-FSA generates **semantic-preserving** unrestricted adversarial examples by adjusting the images' color, texture, etc.

@@ -5,7 +5,7 @@
 ## Results
 
 <p align="center">
-    <img src="./../assets/first_place.png" width="600"\>
+    <img src="./../assets/first_place.png" width="1000"\>
 </p>
 
 
