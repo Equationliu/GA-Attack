@@ -1,7 +1,7 @@
 # Transferable Unrestricted Adversarial Examples
 
 This is the PyTorch implementation of the
-* Arxiv paper: [Towards Transferable Unrestricted Adversarial Examples
+* SaTML 2023: [Towards Transferable Unrestricted Adversarial Examples
 with Minimum Changes](https://arxiv.org/abs/2201.01102),
 * No.1 solution of of CVPR’21 Security AI Challenger: [Unrestricted Adversarial Attacks on ImageNet Competition](https://arxiv.org/abs/2110.09903).
 
